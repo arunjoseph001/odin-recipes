@@ -1,0 +1,11 @@
+body {
+    background-color:ivory;
+    color:grey;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-weight: 500;
+}
+img{
+    width: 450px;
+}
